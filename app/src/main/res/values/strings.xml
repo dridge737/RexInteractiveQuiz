@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Rex Application</string>
+    <string name="app_name">Rex Interactive Quiz</string>
     <string name="scan_button">Scan Activity</string>
     <string name="edit_message">Enter a text</string>
 </resources>
