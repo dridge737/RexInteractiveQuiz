@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     JSONObject obj = new JSONObject(result.getContents());
                     startActivity(new Intent(MainActivity.this, QuizManager.class).putExtra("qrData", obj.toString()));
 
+
                 } catch (JSONException e) {
                     e.printStackTrace();
                     //if control comes here
