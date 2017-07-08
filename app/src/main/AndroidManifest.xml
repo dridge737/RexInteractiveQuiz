@@ -21,7 +21,6 @@
         </activity>
 
         <activity android:name=".QuizManager"
-            android:theme="@style/AppTheme"
             />
 
         <activity
